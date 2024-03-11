@@ -11,7 +11,6 @@ This repository serves as a hub for my configuration files, resources, and poten
 ### Additional Resources
 
 * **Website:** Visit my website at https://davescube.com for in-depth articles, tutorials, and other cybersecurity and digital forensics content.
-  
 * **YouTube Channel:** Subscribe to my YouTube channel at https://youtube.davescube.com to watch informative videos on various cybersecurity and digital forensics topics. 
 
 ### Collaboration and Contribution
